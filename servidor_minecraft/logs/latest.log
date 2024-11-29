@@ -116,3 +116,9 @@
 [29Nov2024 19:23:36.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close server<--[HERE]
 [29Nov2024 19:25:09.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [29Nov2024 19:25:09.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: +<--[HERE]
+[29Nov2024 20:01:12.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Nov2024 20:01:12.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: open server<--[HERE]
+[29Nov2024 20:01:39.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Nov2024 20:01:39.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: open server<--[HERE]
+[29Nov2024 20:01:50.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Nov2024 20:01:50.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abrir server<--[HERE]
